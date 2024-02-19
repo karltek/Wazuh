@@ -1,5 +1,5 @@
 
-### Creating the Wazuh server.
+## Creating the Wazuh server.
 
 Head over to Linode and register if you haven't already, otherwise, sign in and select the **Create** button then choose **Marketplace**. 
 
