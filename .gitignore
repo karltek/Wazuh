@@ -1,0 +1,4 @@
+server-wazuh
+wazuh-agent-singapore.pem
+wazuh-ami-agent.pem
+./images/*.gif
