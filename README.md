@@ -48,3 +48,7 @@ This is the best time to refill your coffee ☕
 
 ![Step_07](images/Create-Wazuh-05.png)
 </details>
+
+
+
+<iframe src="./content/Creating-the-Wazuh-server.md" width="100%" height="300"></iframe>
