@@ -7,7 +7,9 @@ This hands-on experience is designed to deepen my understanding and knowledge of
 To have access on the Wazuh platform, you can either register for a [trial account](https://console.cloud.wazuh.com/sign-up) or do a manual installation.
 For this lab, I use [Linode](https://www.linode.com/company/about/) to setup the Wazuh server, more detailed instructions can be found on [Wazuh's Quickstart guide](https://documentation.wazuh.com/current/quickstart.html).
 
-#### Creating the Wazuh server.
+<details>
+  <summary>Creating the Wazuh server.</summary>
+  <br>
 Head over to Linode and register if you haven't already, otherwise, sign in and select the **Create** button then choose **Marketplace**. 
 
 ![Step_01](images/Create-Linode-01.png)
@@ -39,8 +41,10 @@ You can also assign this to an existing **Firewall rule** you have in **Linode**
 
 ![Step_06](images/Create-Wazuh-04.png)
 
+
 Finally, you can choose to enable some **Add-ons**. \
 Once done, choose **Create Linode** to create your **Wazuh server**. This will take a few minutes as Wazuh will be need to be installed. \
 This is the best time to refill your coffee ☕
 
 ![Step_07](images/Create-Wazuh-05.png)
+</details>
