@@ -8,4 +8,8 @@ To have access on the Wazuh platform, you can either register for a [trial accou
 For this lab, I use [Linode](https://www.linode.com/company/about/) to setup the Wazuh server, more detailed instructions can be found on [Wazuh's Quickstart guide](https://documentation.wazuh.com/current/quickstart.html). 
 
 [001 -- Creating the Wazuh server](./content/001-Creating-the-Wazuh-server.md) \
-[002 -- Wazuh, configuring agents](./content/002-Adding-the-Wazuh-agents.md)
+[002 -- Wazuh, configuring agents](./content/002-Adding-the-Wazuh-agents.md) \ 
+[003 -- Wazuh, FIM (File Integrity Monitoring)](./content/002-Adding-the-Wazuh-agents.md) \ 
+[004 -- Wazuh, Active Response agents](./content/002-Adding-the-Wazuh-agents.md) \ 
+[005 -- Wazuh, Vulnerabilities](./content/002-Adding-the-Wazuh-agents.md) \ 
+[006 -- Wazuh, Alert Notification](./content/002-Adding-the-Wazuh-agents.md) \ 
